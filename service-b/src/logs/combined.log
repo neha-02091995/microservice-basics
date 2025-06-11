@@ -1,0 +1,3 @@
+info: Service B: Received request to get all products {"timestamp":"2025-06-11 08:24:20.356 PM"}
+info: Service B: Fetching all products {"timestamp":"2025-06-11 08:24:20.359 PM"}
+info: Service B: Returning 5 products {"timestamp":"2025-06-11 08:24:20.360 PM"}
