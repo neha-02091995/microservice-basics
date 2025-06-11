@@ -1,0 +1,6 @@
+info: info {"timestamp":"2025-06-11 01:23:38.745 PM"}
+info: API Gateway: Successfully fetched 1 users from Service A {"timestamp":"2025-06-11 01:23:38.776 PM"}
+info: info {"timestamp":"2025-06-11 01:24:02.573 PM"}
+error: API Gateway: Error fetching users from Service A - connect ECONNREFUSED 127.0.0.1:8888 {"timestamp":"2025-06-11 01:24:02.578 PM"}
+info: API Gateway: Fetching all products from Service B {"timestamp":"2025-06-11 08:24:20.338 PM"}
+info: API Gateway: Successfully fetched 5 products from Service B {"timestamp":"2025-06-11 08:24:20.363 PM"}
